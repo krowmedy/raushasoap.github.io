@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Radha Ramesh"
   avatar : "/assets/images/logo.jpg"
-  bio    : "A homemaker passionate about natural soaps and skincare products."
+  bio    : "A former Chemistry teacher passionate about natural soaps and skincare products."
   links:    
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
