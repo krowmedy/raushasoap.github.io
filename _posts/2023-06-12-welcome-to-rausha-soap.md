@@ -1,10 +1,11 @@
 ---
-title: "Welcome to Rausha Soap!"
-date: 2023-06-12T15:34:30-04:00
+title: "Welcome to Rausha Soaps!"
+date: 2023-06-11T15:34:30-04:00
 categories:
   - blog
 tags:
   - blog
+  - update
 ---
 
-Welcome to the Rausha Soaps website. This website is still being built. Please check back soon.
+This site is under construction. Please check back soon.
